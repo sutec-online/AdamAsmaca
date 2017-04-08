@@ -1,0 +1,13 @@
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\bin\Debug\1.1adam_asmaca.exe.config
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\bin\Debug\1.1adam_asmaca.exe
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\bin\Debug\1.1adam_asmaca.pdb
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\1.1adam_asmaca.csprojResolveAssemblyReference.cache
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\_1._1adam_asmaca.KelimeYonet.resources
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\_1._1adam_asmaca.Properties.Resources.resources
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\1.1adam_asmaca.csproj.GenerateResource.Cache
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\1.1adam_asmaca.exe
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\1.1adam_asmaca.pdb
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\_1._1adam_asmaca.AnaForm.resources
+c:\users\kgn\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\_1._1adam_asmaca.SkorListesi.resources
+C:\Users\KGN\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\_1._1adam_asmaca.OyunAyar.resources
+C:\Users\KGN\documents\visual studio 2015\Projects\1.1adam_asmaca\1.1adam_asmaca\obj\Debug\_1._1adam_asmaca.OyunForm.resources
